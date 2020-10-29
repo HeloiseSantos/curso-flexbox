@@ -1,0 +1,3 @@
+- Neste curso, foi utilizada a ferramenta codepen https://codepen.io, utilizando o estilo base enviado pelo professor. Para incluí-lo, basta criar um new pen, ir no ícone de engrenagem da janela de css, inserir a url https://codepen.io/tarciozemel/pen/OzKrVJ.css e salvar.
+
+- Link das minhas anotações e desenvolvimentos dos códigos juntos às aulas: https://codepen.io/HeloiseSantos/pen/ExyWMrN

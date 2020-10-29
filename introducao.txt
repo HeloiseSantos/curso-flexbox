@@ -1,0 +1,31 @@
+- O QUE É FLEXBOX?
+    - O que flexbox faz parte do css e é nativo as folhas de estilo.
+    - Através de sua sintaxe e capacidade, é possível resolver muitos problemas como limitações em tabelas, floats ou outros métodos para   construção de layouts.
+    - Permite que não seja preciso trabalhar com regras rígidas de layout, e sim com proporções, distribuição de espaços e alinhamentos.
+    - É suportada por 97,66% dos navegadores, incluindo dispositivos móveis.
+
+- TERMINOLOGIA
+    - Utilize a imagem "flexbox-Terminologia.png" da pasta de imagens no material de apoio para visualizar a explicação a seguir:
+    - Imagine um elemento como uma <div> ou uma <section>. 
+    - Assim que é especificado que você irá trabalhar com flexbox, esse elemento se tornará um "flex container".
+    - Esse elemento terá outros elementos dentro. Esses elementos se chamam "flex items".
+    - Layouts flex, são baseados nas "flex directions" (direções flex). Esse conceito é baseado em eixos que determinam a direção em que os "flex items" serão dispostos.
+    - O eixo principal (na horizontal), se chama "Main Axis".
+    - O eixo da vertical, ou eixo secundário, se chama "Cross Axis".
+    - "Main Size" é o tamanho do container, que toma por base o "Main Axis" e o "Cross Size" (este leva em consideração o tamanho do "Cross Axis").
+    - O Main Size vai do ponto inicial ("Main Start") até o final do elemento, onde há o ponto final chamado de "Main End".
+    - O eixo secundário vai de "Cross Start" até "Cross end".
+
+- CSS GRID SUBSTITUI FLEXBOX?
+    - Não substitui, pois são tecnologias com propósitos diferentes. Um pode fazer coisas que o outro não podem e, por não serem tecnologias concorrentes, eles podem ser usados juntos.
+    - FLEXBOX
+        - Unidimensional (coluna OU linha)
+        - Trabalha-se a partir do conteúdo (o conteúdo dita a aparência e como os itens vão se comportar)
+        - Distribuição de espaços se dá em função de configurações relacionadas ao conteúdo em si
+        - Mais indicado para porções de layout, elementos de UI
+    - CSS GRID
+        - Bidimensional (coluna E linha)
+        - Trabalha-se a partir da definição da grid 
+        - Especifica-se uma grid e ocupa-se os espaços pré-definidos
+        - Indicado para layouts mais completos, mais abrangentes, em que se define todo o layout da página
+        - Requer menos media queries para se adaptar a responsividade (minmax(), repeat(), auto-fill, etc)
