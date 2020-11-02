@@ -1,3 +1,11 @@
 - Neste curso, foi utilizada a ferramenta codepen https://codepen.io, utilizando o estilo base enviado pelo professor. Para incluí-lo, basta criar um new pen, ir no ícone de engrenagem da janela de css, inserir a url https://codepen.io/tarciozemel/pen/OzKrVJ.css e salvar.
 
-- Link das minhas anotações e desenvolvimentos dos códigos juntos às aulas: https://codepen.io/HeloiseSantos/pen/ExyWMrN
+- Link das minhas anotações e desenvolvimentos dos códigos juntos às aulas: 
+https://codepen.io/HeloiseSantos/pen/ExyWMrN - Resumo explicação flexbox
+https://codepen.io/HeloiseSantos/pen/wvWmzwB - Centralização vertical e horizontal de conteúdo
+https://codepen.io/HeloiseSantos/pen/wvWmzaa - Multicolunas de alturas iguais
+https://codepen.io/HeloiseSantos/pen/pobLEye - Rodapé fixo
+https://codepen.io/HeloiseSantos/details/PozRBBV - Layout Santo Graal
+https://codepen.io/HeloiseSantos/pen/oNLqMRy - Menu responsivo sem media query
+https://codepen.io/HeloiseSantos/details/LYZdJxg - Widget de previsão do tempo
+https://codepen.io/HeloiseSantos/pen/PozRdXN - Accordion de imagens
